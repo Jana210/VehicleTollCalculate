@@ -11,25 +11,25 @@ Each passage through a pay station (betalstation) costs 9,16 or 22 swedish krona
 
 Time                  Fee to pay
 
-06:00–06:29             9 kr
+06:00–06:29       -      9 kr
 
-06:30–06:59            16 kr
+06:30–06:59       -     16 kr
 
-07:00–07:59            22 kr
+07:00–07:59       -    22 kr
 
-08:00–08:29            16 kr
+08:00–08:29       -     16 kr
 
-08:30–14:59             9 kr
+08:30–14:59       -      9 kr
 
-15:00–15:29            16 kr
+15:00–15:29       -     16 kr
 
-15:30–16:59            22 kr
+15:30–16:59       -     22 kr
 
-17:00–17:59            16 kr
+17:00–17:59       -     16 kr
 
-18:00–18:29             9 kr
+18:00–18:29       -      9 kr
 
-18:30–05:59             0 kr
+18:30–05:59       -      0 kr
 
 The car toll is payed for both Swedish and non Swedish cars that passes a pay station (betalstation) in Gothenburg Monday to Friday between 06.00 and 18.29.
 
